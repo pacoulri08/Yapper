@@ -1,5 +1,5 @@
 
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { supabase } from "./utils/supabase";
 import type { Tweet } from "./types/Tweet";
 import {
